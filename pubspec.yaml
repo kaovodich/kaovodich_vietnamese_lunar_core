@@ -1,0 +1,13 @@
+name: vietnamese_lunar_core
+description: Vietnamese lunar calendar core utilities for pure Dart.
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
